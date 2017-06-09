@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Galerij</string>
+    <string name="switch_theme">Ochtend of nacht?</string>
+
+    <string name="two">2 kolommen</string>
+    <string name="three">3 kolommen</string>
+    <string name="four">4 kolommen</string>
+
+    <string name="notFound">Bestand niet gevonden (╯°□°）╯︵ ┻━┻. Ik ben het SD-kaart pad vergeten!</string>
+    <string name="uSure">Zeker weten? (Ծ‸ Ծ)</string>
+    <string name="uSureContent">Zeker weten &#160; verwijderen?</string>
+    <string name="questionMark">&#160;?</string>
+    <string name="delete">Verwijderen</string>
+
+    <string name="sdcard">SD-kaart toegang</string>
+    <string name="sdcardContent">Uw apparaat draait op Android 5.0+. Om bestanden op de SD-kaart te bewerken, dient u het pad van de externe SD-kaart op te geven in de volgende stap ᕙ༼ຈل͜ຈ༽ᕗ</string>
+    <string name="success">SD-kaart pad succesvol ingesteld. U kunt nu bestanden verwijderen (⌐■_■)</string>
+    <string name="cameraContent">Deze permissie is benodigd als u de camera wilt openen (ಠ_ಠ)</string>
+    <string name="rationale_camera" translatable="false">(ಥ﹏ಥ)</string>
+    <string name="rationale_read" translatable="false">щ（ﾟДﾟщ)</string>
+    <string name="writeReadContent">Deze permissie is benodigd als u uw &amp;#$# selfie hier wilt zien (◔_◔)</string>
+
+    <string name="saved">&#160; opgeslagen (｡◕‿◕｡)</string>
+
+    <string name="shareWith">Delen via &#8230;</string>
+
+    <string name="size">Grootte: &#160;</string>
+    <string name="height">Hoogte: &#160;</string>
+    <string name="width">Breedte: &#160;</string>
+    <string name="name">Bestandsnaam: &#160;</string>
+    <string name="type">Bestandstype: &#160;</string>
+    <string name="path">Pad: &#160;</string>
+    <string name="lastMod">Laatst bewerkt: &#160;</string>
+
+    <string name="videoType">Video/</string>
+    <string name="imageType">Afbeelding/</string>
+
+    <string name="B" translatable="false">B</string>
+    <string name="KB" translatable="false">KB&#160;</string>
+    <string name="MB" translatable="false">MB&#160;</string>
+    <string name="GB" translatable="false">GB&#160;</string>
+
+    <string name="parenthesisR" translatable="false">)</string>
+    <string name="parenthesisL" translatable="false">&#160;(</string>
+
+    <string name="setAs">Als achtergrond instellen</string>
+
+</resources>
